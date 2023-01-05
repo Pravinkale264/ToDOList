@@ -4,10 +4,9 @@
 
 ## *Website Demo*
 
-<img src="https://user-images.githubusercontent.com/91412104/206133959-97e15099-f58d-4698-86f0-74c179c826fd.gif" >
-<hr>
-
-<img src="https://user-images.githubusercontent.com/91412104/206136129-a2d507ca-724b-42cd-a84a-b3a8ef0fb15d.png" >
+https://user-images.githubusercontent.com/91412104/210853091-66b99e3f-e9fb-448a-a202-4d930685dd60.mp4
+<!-- 
+<img src="https://user-images.githubusercontent.com/91412104/206133959-97e15099-f58d-4698-86f0-74c179c826fd.gif" > -->
 <hr>
 
 ## *Tech stack Used*
@@ -39,6 +38,9 @@
 <div>
 
 <img src="https://user-images.githubusercontent.com/91412104/206136494-e3c4c56d-6cb0-432a-b9b0-d04b5cf5309c.png" >
+<hr>
+
+<img src="https://user-images.githubusercontent.com/91412104/206136129-a2d507ca-724b-42cd-a84a-b3a8ef0fb15d.png" >
 <hr>
 
 <img src="https://user-images.githubusercontent.com/91412104/206136876-1ee44ff1-f9e9-4113-8830-59fde201f1f8.png" >
